@@ -228,11 +228,3 @@ dl=驱动器号（0表示A盘）
         </tr>
         </table>
 TI=0，表示描述符在GDT中；TI=1，描述符在LDT中。
-
-
-
-```seq
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-```
